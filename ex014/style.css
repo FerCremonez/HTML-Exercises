@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body 
+    {
+        background-color: rgb(117, 206, 201); 
+        font-family: arial;
+        font: size 20px;
+    }   
+
+h1
+    {
+        color:rgb(0, 0, 0);        
+    }
+
+h2
+    {
+        color: rgb(236, 4, 43);
+    }
+button
+    {
+        background-color:rgb(231, 214, 214);
+        font-family: arial;
+        font: size 800px;
+        scale: 300;
+    }
+
+a
+    {
+        font: size 100px;
+        scale: 50;
+    }
